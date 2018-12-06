@@ -1,0 +1,136 @@
+html,body
+{
+	scroll-behavior: smooth;
+}
+.header
+{
+	height:640px;
+	background-color: #8A0651;
+}
+.logo
+{
+ background:url(prt.jpg) 50% 0 no-repeat fixed ;
+ background-size: cover;
+ height:560px;
+ margin-left:-13px;
+ opacity: 0.8;
+
+}
+.logo p
+{
+	margin-top: 400px;
+	font-size: 30px;
+	color:white;
+}
+.logo span
+{
+ font-size: 39px;
+font-family: 'Anton', sans-serif;
+}
+.nav
+{
+	height:80px;
+}
+.navbar-nav .nav-item
+{
+ margin:20px;
+}
+.nav-item .nav-link
+{
+	color:white;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+}
+.profile
+{
+	height:560px;
+	margin: 0px;
+}
+.profile img
+{
+  margin-left:40px;
+  height:160px;
+}
+
+.profile h2
+{
+  
+  padding: 20px; 
+  color:white;
+}
+.profile h5
+{
+  color:white;
+  padding: 20px; 
+}
+.profile button
+{
+  margin-left: 20px;
+  padding: 15px; 
+  margin-top: 50px;
+  color:#8A0651;
+}
+.about
+{
+	height:540px;
+	background-color: gainsboro;
+}
+.heading 
+{
+	padding: 30px;
+	color:#8A0651;
+	font-family: 'Lobster', cursive;
+}
+.heading h3
+{
+	font-family: Arial;
+}
+.text
+{
+	margin-left: 140px;
+	font-size: 20px;
+	line-height: 40px;
+}
+.text1
+{
+	padding: 25px;
+	
+}
+.edu
+{
+	height:auto;
+	
+}
+.skill
+{
+	height:auto;
+	/*border: solid 1px;*/
+}
+.prog
+{
+	/*padding: 150px;*/
+	/*margin-top: 10px;*/
+	padding: 20px;
+}
+.text2
+{
+	padding: 8px;
+	font-size: 15px;
+	margin-left: 30px;
+}
+.award
+{
+	padding: 25px;
+	height:auto;
+}
+.footer
+{
+	background-color: #8A0651;
+	height:80px;
+}
+.ff
+{
+	padding: 30px;
+	color:white;
+	font-family: 'Anton', sans-serif;
+}
